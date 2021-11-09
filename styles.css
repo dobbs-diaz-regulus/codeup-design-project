@@ -11,9 +11,50 @@
     font-weight: bold;
     font-size: 14px;
     border-radius: 50%;
-    background-color: var(--design-icon);
+    background-color: var(--design-icon-red);
+}
+
+.DEVELOP{
+    height: 105px;
+    width: 105px;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 50%;
+    background-color: var(--design-icon-yellow);
 
 }
+
+.SUPPORT {
+    height: 105px;
+    width: 105px;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 50%;
+    background-color: var(--design-icon-green);
+
+}
+
+.HOST{
+    height: 105px;
+    width: 105px;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 50%;
+    background-color: var(--design-icon-teal);
+
+}
+
+a {
+    color: white !important;
+    padding-right: 0 !important;
+    padding-bottom: 0 !important;
+    padding-top: 42px !important;
+    padding-left: 28px !important;
+}
+
 :root{
-    --design-icon: #E6563B;
+    --design-icon-red: #E6563B;
+    --design-icon-yellow: #EB9D3A;
+    --design-icon-green: #7CB06c;
+    --design-icon-teal: #00ABA9;
 }
