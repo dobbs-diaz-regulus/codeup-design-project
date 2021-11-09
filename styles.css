@@ -21,7 +21,7 @@
     font-size: 14px;
     border-radius: 50%;
     background-color: var(--design-icon-yellow);
-
+    padding: 8px;
 }
 
 .SUPPORT {
@@ -31,7 +31,7 @@
     font-size: 14px;
     border-radius: 50%;
     background-color: var(--design-icon-green);
-
+    padding: 8px;
 }
 
 .HOST{
@@ -44,13 +44,10 @@
 
 }
 
-a {
-    color: white !important;
-    padding-right: 0 !important;
-    padding-bottom: 0 !important;
-    padding-top: 42px !important;
-    padding-left: 28px !important;
-}
+/*a {*/
+/*    color: white !important;*/
+/*    padding: 42px 0 0 28px !important;*/
+/*}*/
 
 :root{
     --design-icon-red: #E6563B;
