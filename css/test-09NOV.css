@@ -81,4 +81,15 @@ body {
     background-color: #e6e6e6;
 }
 
+.top-nav-link {
+    font-family: 'Abel', sans-serif;
+    color: black;
+}
+
+.codeup-design {
+    font-family: 'Abel', sans-serif;
+    color: black;
+    font-size: 2em;
+}
+
 
