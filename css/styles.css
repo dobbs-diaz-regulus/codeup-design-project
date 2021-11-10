@@ -5,10 +5,13 @@
     top: 15px;
     position: absolute;
 }
+
+
 body {
     font-family: 'Abel', sans-serif;
     background: #f0f0f0;
 }
+
 .DESIGN{
     height: 105px;
     width: 105px;
@@ -87,6 +90,7 @@ nav a {
     --teal: #00ABA9;
 }
 
+
 /** this was for BUTTON style of circles***/
 /*.pill{*/
 /*    color: black;*/
@@ -98,6 +102,7 @@ nav a {
 /*    font-family: 'abel', sans-serif;*/
 /* */
     /*padding-right:1px;*/
+
 
 
 li {
@@ -152,9 +157,11 @@ nav .nav-item {
     .custom-card {padding-right: 3em;}
     hr {width: 100%;}
 }
+
 .circle h6 {
     margin: 0;
 }
+
 
 .circle {
     width: 100px;
@@ -186,5 +193,12 @@ nav .nav-item {
 .blue {background-color: var(--teal);}
 .yellow {background-color: var(--yellow);}
 .green {background-color: var(--green);}
+
+
+}
+#nav-link-color {
+    color: black;
+}
+
 
 
