@@ -5,6 +5,13 @@
     top: 15px;
     position: absolute;
 }
+
+
+body {
+    font-family: 'Abel', sans-serif;
+    background: #f0f0f0;
+}
+
 .DESIGN{
     height: 105px;
     width: 105px;
@@ -87,17 +94,22 @@ nav a {
     --green: #7CB06c;
     --teal: #00ABA9;
 }
-.pill{
-    color: black;
-    border-radius: 50%;
-    height: 18px;
-    width: 18px;
-    text-align: center;
-    padding-top: 4px;
-    font-family: 'abel', sans-serif;
+
+
+/** this was for BUTTON style of circles***/
+/*.pill{*/
+/*    color: black;*/
+/*    border-radius: 50%;*/
+/*    height: 18px;*/
+/*    width: 18px;*/
+/*    text-align: center;*/
+/*    padding-top: 4px;*/
+/*    font-family: 'abel', sans-serif;*/
+/* */
     /*padding-right:1px;*/
 
-}
+
+
 li {
     list-style-type: none;
 }
@@ -107,6 +119,7 @@ li {
     border-radius: 1px;
     background-size: cover;
 }
+<<<<<<< HEAD
 body {
     font-family: 'Abel', sans-serif;
     background: #f0f0f0;
@@ -114,6 +127,8 @@ body {
 body {
     background-color: lightgrey;
 }
+=======
+>>>>>>> 4e8270c40b5df84807da5a56924dbf9d1a5442cd
 
 .wrapper {
     max-width: 1100px;
@@ -158,6 +173,12 @@ nav .nav-item {
     .custom-card {padding-right: 3em;}
     hr {width: 100%;}
 }
+
+.circle h6 {
+    margin: 0;
+}
+
+
 .circle {
     width: 100px;
     height: 100px;
@@ -189,23 +210,12 @@ nav .nav-item {
 .yellow {background-color: var(--yellow);}
 .green {background-color: var(--green);}
 
-.small-circles {
-    height: 18px;
-    width: 18px;
-    border-radius: 18px;
-    font-size: 8px;
-    line-height: 18px;
-    font-family: 'Anton', sans-serif;
-    margin-left: 1em;
-}
 
-.small-circles span {
-    position: relative;
-    top: 1px;
 }
 #nav-link-color {
     color: black;
 }
+<<<<<<< HEAD
 .nav-background {
     position: absolute;
     margin: 0;
@@ -228,3 +238,8 @@ nav .nav-item {
     top: .4em;
     color: rgb(27 160 239);
 }
+=======
+
+
+
+>>>>>>> 4e8270c40b5df84807da5a56924dbf9d1a5442cd
