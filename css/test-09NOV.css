@@ -13,3 +13,72 @@ p {
     font-family: 'Abel', sans-serif;
 }
 
+#design {
+    width: 105px;
+    height: 105px;
+    -webkit-border-radius: 52.5px;
+    -moz-border-radius: 52.5px;
+    border-radius: 52.5px;
+    background: #E6563B;
+    margin-bottom: 0;
+    padding-top: 1.75em;
+    /*padding-left: .25em;*/
+    color: white;
+    font-family: 'Anton', sans-serif;
+    border: 5px solid white;
+    text-align: center;
+}
+
+#develop {
+    width: 105px;
+    height: 105px;
+    -webkit-border-radius: 52.5px;
+    -moz-border-radius: 52.5px;
+    border-radius: 52.5px;
+    background: #EB9D3A;
+    margin-bottom: 0;
+    padding-top: 1.75em;
+    /*padding-left: .25em;*/
+    color: white;
+    font-family: 'Anton', sans-serif;
+    border: 5px solid white;
+    text-align: center;
+}
+
+#support {
+    width: 105px;
+    height: 105px;
+    -webkit-border-radius: 52.5px;
+    -moz-border-radius: 52.5px;
+    border-radius: 52.5px;
+    background: #7CB06c;
+    margin-bottom: 0;
+    padding-top: 1.75em;
+    /*padding-left: .5em;*/
+    color: white;
+    font-family: 'Anton', sans-serif;
+    border: 5px solid white;
+    text-align: center;
+}
+
+#host {
+    width: 105px;
+    height: 105px;
+    -webkit-border-radius: 52.5px;
+    -moz-border-radius: 52.5px;
+    border-radius: 52.5px;
+    background: #00ABA9;
+    margin-bottom: 0;
+    padding-top: 1.75em;
+    /*padding-left: .25em;*/
+    color: white;
+    font-family: 'Anton', sans-serif;
+    border: 5px solid white;
+    text-align: center;
+}
+
+body {
+    background-color: #e6e6e6;
+}
+
+
