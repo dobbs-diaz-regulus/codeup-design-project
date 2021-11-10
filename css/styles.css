@@ -119,16 +119,11 @@ li {
     border-radius: 1px;
     background-size: cover;
 }
-<<<<<<< HEAD
 body {
     font-family: 'Abel', sans-serif;
-    background: #f0f0f0;
+    background: lightgrey;
 }
-body {
-    background-color: lightgrey;
-}
-=======
->>>>>>> 4e8270c40b5df84807da5a56924dbf9d1a5442cd
+
 
 .wrapper {
     max-width: 1100px;
@@ -139,13 +134,13 @@ nav .nav-item {
     position: relative;
     bottom: 6px;
 }
-.img {
-    max-width: 100%;
-    border: .5em solid #e6e6e6;
-    border-radius: 4px;
-    background-size: cover;
+/*.images {*/
+/*    max-width: 100%;*/
+/*    border: .5em solid #e6e6e6;*/
+/*    border-radius: 4px;*/
+/*    background-size: cover;*/
 
-}
+/*}*/
 .sub-title {
     text-align: center;
     margin-top: 5em;
@@ -211,11 +206,11 @@ nav .nav-item {
 .green {background-color: var(--green);}
 
 
-}
+
 #nav-link-color {
     color: black;
 }
-<<<<<<< HEAD
+
 .nav-background {
     position: absolute;
     margin: 0;
@@ -225,9 +220,9 @@ nav .nav-item {
     top: 37px;
     z-index: -1000;
 }
-.small-images-phone {background-image: url("..assets/images/mobile-phone.jpg")}
-.small-images-head {background-image: url("..assets/images/head.jpg")}
-.small-images-google {background-image: url("..assets/images/google-search.jpg")}
+.small-images-phone {background-image: url("assets/images/mobile-phone.jpg")}
+.small-images-head {background-image: url("assets/images/head.jpg")}
+.small-images-google {background-image: url("assets/images/google-search.jpg")}
 
 
 .tweet i {
@@ -238,8 +233,10 @@ nav .nav-item {
     top: .4em;
     color: rgb(27 160 239);
 }
-=======
 
-
-
->>>>>>> 4e8270c40b5df84807da5a56924dbf9d1a5442cd
+.small-img {
+    height: 50px;
+    width: 50px;
+    /*padding: 15px;*/
+    margin: 15px;
+}
