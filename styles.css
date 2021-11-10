@@ -11,7 +11,7 @@
     font-weight: bold;
     font-size: 14px;
     border-radius: 50%;
-    background-color: var(--design-icon-red);
+    background-color: var(--red);
 }
 
 .DEVELOP{
@@ -20,7 +20,7 @@
     font-weight: bold;
     font-size: 14px;
     border-radius: 50%;
-    background-color: var(--design-icon-yellow);
+    background-color: var(--yellow);
     padding: 8px;
 }
 
@@ -30,7 +30,7 @@
     font-weight: bold;
     font-size: 14px;
     border-radius: 50%;
-    background-color: var(--design-icon-green);
+    background-color: var(--green);
     padding: 8px;
 }
 
@@ -40,7 +40,7 @@
     font-weight: bold;
     font-size: 14px;
     border-radius: 50%;
-    background-color: var(--design-icon-teal);
+    background-color: var(--teal);
 
 }
 h1,
