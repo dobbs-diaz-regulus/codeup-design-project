@@ -193,3 +193,6 @@ nav .nav-item {
     position: relative;
     top: 1px;
 }
+#nav-link-color {
+    color: black;
+}
