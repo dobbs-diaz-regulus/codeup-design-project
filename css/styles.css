@@ -1,55 +1,9 @@
-.logo{
-    margin-left: 4px;
-    width: 105px;
-    height: 105px;
-    top: 15px;
-    position: absolute;
-}
-
 
 body {
     font-family: 'Abel', sans-serif;
     background: #f0f0f0;
 }
 
-.DESIGN{
-    height: 105px;
-    width: 105px;
-    font-weight: bold;
-    font-size: 14px;
-    border-radius: 50%;
-    background-color: var(--red);
-}
-
-.DEVELOP{
-    height: 105px;
-    width: 105px;
-    font-weight: bold;
-    font-size: 14px;
-    border-radius: 50%;
-    background-color: var(--yellow);
-    padding: 8px;
-}
-
-.SUPPORT {
-    height: 105px;
-    width: 105px;
-    font-weight: bold;
-    font-size: 14px;
-    border-radius: 50%;
-    background-color: var(--green);
-    padding: 8px;
-}
-
-.HOST{
-    height: 105px;
-    width: 105px;
-    font-weight: bold;
-    font-size: 14px;
-    border-radius: 50%;
-    background-color: var(--teal);
-
-}
 h1,
 h2,
 h3,
@@ -134,13 +88,13 @@ nav .nav-item {
     position: relative;
     bottom: 6px;
 }
-/*.images {*/
-/*    max-width: 100%;*/
-/*    border: .5em solid #e6e6e6;*/
-/*    border-radius: 4px;*/
-/*    background-size: cover;*/
+.image {
+    max-width: 100%;
+    border: .3em solid #e6e6e6;
+    border-radius: 4px;
+    background-size: cover;
 
-/*}*/
+}
 .sub-title {
     text-align: center;
     margin-top: 5em;
@@ -239,4 +193,6 @@ nav .nav-item {
     width: 50px;
     /*padding: 15px;*/
     margin: 15px;
+    border: .2em solid #e6e6e6;
+    background-size: cover;
 }
